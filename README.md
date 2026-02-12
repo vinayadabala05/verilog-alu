@@ -15,3 +15,7 @@ ModelSim / Vivado simulation
 
 ## Skills Practiced
 RTL Design, Combinational Logic, Testbench Verification, Waveform Debugging
+
+## Verification
+Verified using self-checking testbench and waveform analysis.
+
